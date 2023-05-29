@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "Asignatura: B2 Física"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
+venue: "IES Jaime Ferrán"
+date: 2023-09-10
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Seguiremos el curso por dos vías: un servidor discord y este classroom.
 
 Heading 1
 ======
