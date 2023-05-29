@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ricardo Torres, IESJF 23-24"
+title                    : "Ricardo Torres, <p>IESJF 23-24</p>"
 title_separator          : "-"
 name                     : &name "Ricardo Torres"
 description              : &description "Departamento de Física y Química, IESJF"
