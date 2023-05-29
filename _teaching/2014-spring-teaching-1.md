@@ -1,5 +1,5 @@
 ---
-title: "Física y Química"
+title: "Asignatura: E3 Física y Química"
 collection: teaching
 type: "Secundaria"
 permalink: /teaching/2014-spring-teaching-1
@@ -7,7 +7,7 @@ venue: "IES Jaime Ferrán"
 date: 2023-09-10
 location: "City, Country"
 ---
-El curso podrá seguirse en las disposiciones...
+Matricúlate desde tu cuenta institucional siguiendo este enlace.
 
 Heading 1
 ======
