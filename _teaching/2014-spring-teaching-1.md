@@ -1,14 +1,13 @@
 ---
-title: "Teaching experience 1"
+title: "Física y Química"
 collection: teaching
-type: "Undergraduate course"
+type: "Secundaria"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
+venue: "IES Jaime Ferrán"
+date: 2023-09-10
 location: "City, Country"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
+El curso podrá seguirse en las disposiciones...
 
 Heading 1
 ======
